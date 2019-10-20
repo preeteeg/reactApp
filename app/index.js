@@ -11,7 +11,7 @@ class App extends React.Component
     render()
     {
         return (
-            <div>Helo World</div>
+            <div>Am a react app using webpack</div>
         )
     }
 }
